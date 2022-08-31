@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Turgut Atashov
 - 👀 I’m interested in AWS/K8S/GitHub/Python/Java/
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on AWS/Java
+- 💞️ I’m looking to collaborate on AWS/Java/Python/Go
 - 📫 How to reach me ...
 
 <!---
